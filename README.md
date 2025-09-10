@@ -2,9 +2,9 @@ GroundStudio Load Cell Amplifier Module
 ====================================
 ![HX711 module REV0 1](https://github.com/GroundStudio/GroundStudio_HX711_module/assets/77836107/4b1f3684-b189-4275-9b1c-ae48d26b994f)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2509-modul-citire-senzor-greutate-hx711-groundstudio.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/2207-modul-citire-senzor-greutate-hx711-groundstudio-6427854000040.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
